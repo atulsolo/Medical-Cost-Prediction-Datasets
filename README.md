@@ -3,7 +3,7 @@ Medical Cost Prediction Datasets
 
 Overview
 This repository provides datasets and resources for predicting medical costs using machine learning algorithms. Medical cost prediction is a crucial task in healthcare analytics, enabling stakeholders to estimate and manage healthcare expenses effectively. The datasets included here cover various factors that influence medical costs, such as age, BMI, region, smoker status, etc. These datasets are curated and preprocessed for ease of use in machine learning projects.
-
+see files all details in files click : https://github.com/atulsolo/Medical-Cost-Prediction-Datasets.git
 Datasets
 Medical Cost Personal Datasets: This dataset contains information about patients including age, sex, BMI, number of children, smoker status, region, and medical costs billed by health insurance. Source
 Healthcare Cost and Utilization Project (HCUP): HCUP provides a variety of databases, tools, and software for studying healthcare utilization and spending in the United States. Datasets cover hospital inpatient stays, emergency department visits, ambulatory surgery visits, and more. Source
